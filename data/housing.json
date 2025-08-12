@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "name": "New Horizons Transitional Housing",
+    "type": "Transitional Housing",
+    "address": "1234 Hope Street",
+    "city": "Seattle",
+    "county": "King",
+    "state": "WA",
+    "zipCode": "98101",
+    "phone": "(206) 555-0123",
+    "email": "intake@newhorizons.org",
+    "website": "https://newhorizons.org",
+    "capacity": 24,
+    "requirements": [
+      "Must be 18 or older",
+      "Completed substance abuse treatment",
+      "Background check required",
+      "Commitment to 6-month program"
+    ],
+    "services": [
+      "Case management",
+      "Job placement assistance",
+      "Life skills training",
+      "Mental health support"
+    ],
+    "applicationProcess": "Call for initial screening, then in-person interview",
+    "waitingList": true,
+    "acceptsCriminalBackground": true,
+    "genderRestrictions": "None",
+    "ageRestrictions": "18+",
+    "sobrietyRequired": true,
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    }
+  },
+  {
+    "id": 2,
+    "name": "Second Chance Halfway House",
+    "type": "Halfway House",
+    "address": "5678 Recovery Lane",
+    "city": "Tacoma",
+    "county": "Pierce",
+    "state": "WA",
+    "zipCode": "98402",
+    "phone": "(253) 555-0456",
+    "email": "admissions@secondchance.org",
+    "website": "https://secondchance.org",
+    "capacity": 16,
+    "requirements": [
+      "Recent release from incarceration",
+      "Must have employment or be actively seeking",
+      "Clean drug test",
+      "Parole officer approval"
+    ],
+    "services": [
+      "Housing assistance",
+      "Employment support",
+      "Transportation assistance",
+      "Peer mentoring"
+    ],
+    "applicationProcess": "Referral from parole officer or self-referral with documentation",
+    "waitingList": false,
+    "acceptsCriminalBackground": true,
+    "genderRestrictions": "Male only",
+    "ageRestrictions": "18-65",
+    "sobrietyRequired": true,
+    "coordinates": {
+      "lat": 47.2529,
+      "lng": -122.4443
+    }
+  },
+  {
+    "id": 3,
+    "name": "Fresh Start Sober Living",
+    "type": "Sober Living",
+    "address": "9012 Serenity Drive",
+    "city": "Spokane",
+    "county": "Spokane",
+    "state": "WA",
+    "zipCode": "99201",
+    "phone": "(509) 555-0789",
+    "email": "info@freshstartsober.org",
+    "website": "https://freshstartsober.org",
+    "capacity": 12,
+    "requirements": [
+      "30 days of sobriety",
+      "Commitment to recovery program",
+      "Weekly drug testing",
+      "House meeting participation"
+    ],
+    "services": [
+      "Peer support",
+      "Recovery meetings on-site",
+      "Life skills workshops",
+      "Alumni network"
+    ],
+    "applicationProcess": "Phone screening followed by in-person interview",
+    "waitingList": true,
+    "acceptsCriminalBackground": true,
+    "genderRestrictions": "None",
+    "ageRestrictions": "18+",
+    "sobrietyRequired": true,
+    "coordinates": {
+      "lat": 47.6587,
+      "lng": -117.4260
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bridge to Independence",
+    "type": "Long-term Housing",
+    "address": "3456 Future Avenue",
+    "city": "Bellingham",
+    "county": "Whatcom",
+    "state": "WA",
+    "zipCode": "98225",
+    "phone": "(360) 555-0234",
+    "email": "housing@bridgetoindependence.org",
+    "website": "https://bridgetoindependence.org",
+    "capacity": 8,
+    "requirements": [
+      "Stable income or benefits",
+      "Completed transitional housing program",
+      "References from previous housing",
+      "Commitment to community involvement"
+    ],
+    "services": [
+      "Affordable rent",
+      "Ongoing case management",
+      "Community building activities",
+      "Financial literacy training"
+    ],
+    "applicationProcess": "Application with income verification and references",
+    "waitingList": true,
+    "acceptsCriminalBackground": true,
+    "genderRestrictions": "None",
+    "ageRestrictions": "21+",
+    "sobrietyRequired": false,
+    "coordinates": {
+      "lat": 48.7519,
+      "lng": -122.4787
+    }
+  },
+  {
+    "id": 5,
+    "name": "Safe Harbor Emergency Shelter",
+    "type": "Emergency Shelter",
+    "address": "7890 Refuge Street",
+    "city": "Olympia",
+    "county": "Thurston",
+    "state": "WA",
+    "zipCode": "98501",
+    "phone": "(360) 555-0567",
+    "email": "intake@safeharbor.org",
+    "website": "https://safeharbor.org",
+    "capacity": 40,
+    "requirements": [
+      "No requirements for emergency stay",
+      "ID helpful but not required",
+      "Sobriety not required for emergency shelter"
+    ],
+    "services": [
+      "Emergency housing up to 30 days",
+      "Meals provided",
+      "Case management",
+      "Resource navigation"
+    ],
+    "applicationProcess": "Walk-in basis, first come first served",
+    "waitingList": false,
+    "acceptsCriminalBackground": true,
+    "genderRestrictions": "None",
+    "ageRestrictions": "18+",
+    "sobrietyRequired": false,
+    "coordinates": {
+      "lat": 47.0379,
+      "lng": -122.9015
+    }
+  }
+]
