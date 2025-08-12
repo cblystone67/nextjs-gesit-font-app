@@ -1,0 +1,312 @@
+{
+  "colleges": [
+    {
+      "id": 1,
+      "name": "Seattle Central College",
+      "type": "Community College",
+      "address": "1701 Broadway",
+      "city": "Seattle",
+      "county": "King",
+      "state": "WA",
+      "zipCode": "98122",
+      "phone": "(206) 587-3800",
+      "email": "admissions@seattlecentral.edu",
+      "website": "https://seattlecentral.edu",
+      "programs": [
+        "Basic Education for Adults (BEA)",
+        "English as a Second Language (ESL)",
+        "High School Completion",
+        "Associate Degrees",
+        "Professional Technical Programs"
+      ],
+      "reentrySupport": true,
+      "reentryServices": [
+        "Dedicated reentry counselor",
+        "Financial aid assistance",
+        "Career planning",
+        "Peer support groups"
+      ],
+      "financialAid": true,
+      "scholarships": [
+        "Second Chance Pell Grant",
+        "Washington State Need Grant",
+        "Opportunity Grant"
+      ],
+      "applicationDeadline": "Rolling admissions",
+      "requirements": [
+        "High school diploma or equivalent",
+        "Placement testing",
+        "Financial aid application"
+      ],
+      "contactPerson": "Maria Rodriguez, Reentry Coordinator",
+      "contactEmail": "maria.rodriguez@seattlecentral.edu",
+      "coordinates": {
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    },
+    {
+      "id": 2,
+      "name": "Tacoma Community College",
+      "type": "Community College",
+      "address": "6501 South 19th Street",
+      "city": "Tacoma",
+      "county": "Pierce",
+      "state": "WA",
+      "zipCode": "98466",
+      "phone": "(253) 566-5000",
+      "email": "info@tacomacc.edu",
+      "website": "https://tacomacc.edu",
+      "programs": [
+        "Adult Basic Education",
+        "GED Preparation",
+        "Workforce Training",
+        "Transfer Degrees",
+        "Professional Certificates"
+      ],
+      "reentrySupport": true,
+      "reentryServices": [
+        "Reentry navigation services",
+        "Mentorship program",
+        "Job placement assistance",
+        "Transportation support"
+      ],
+      "financialAid": true,
+      "scholarships": [
+        "Pierce County Reentry Scholarship",
+        "Workforce Innovation Opportunity Act (WIOA)",
+        "Basic Food Employment & Training"
+      ],
+      "applicationDeadline": "Open enrollment",
+      "requirements": [
+        "Assessment testing",
+        "Educational planning session",
+        "Financial aid completion"
+      ],
+      "contactPerson": "James Wilson, Student Success Coach",
+      "contactEmail": "james.wilson@tacomacc.edu",
+      "coordinates": {
+        "lat": 47.2529,
+        "lng": -122.4443
+      }
+    },
+    {
+      "id": 3,
+      "name": "University of Washington Reentry Program",
+      "type": "University",
+      "address": "1410 NE Campus Parkway",
+      "city": "Seattle",
+      "county": "King",
+      "state": "WA",
+      "zipCode": "98195",
+      "phone": "(206) 543-2100",
+      "email": "reentry@uw.edu",
+      "website": "https://uw.edu/reentry",
+      "programs": [
+        "Bachelor's Degree Completion",
+        "Certificate Programs",
+        "Pre-college Bridge Programs",
+        "Research Opportunities"
+      ],
+      "reentrySupport": true,
+      "reentryServices": [
+        "Academic advising",
+        "Peer mentoring",
+        "Research opportunities",
+        "Graduate school preparation"
+      ],
+      "financialAid": true,
+      "scholarships": [
+        "UW Reentry Scholarship",
+        "Husky Promise",
+        "Purple and Gold Scholarship"
+      ],
+      "applicationDeadline": "March 15 (Fall), October 15 (Winter)",
+      "requirements": [
+        "Associate degree or 90 quarter credits",
+        "Personal statement",
+        "Letters of recommendation",
+        "Transcripts"
+      ],
+      "contactPerson": "Dr. Sarah Chen, Reentry Program Director",
+      "contactEmail": "sarah.chen@uw.edu",
+      "coordinates": {
+        "lat": 47.6553,
+        "lng": -122.3035
+      }
+    }
+  ],
+  "vocational_training": [
+    {
+      "id": 4,
+      "name": "Renton Technical College",
+      "type": "Technical College",
+      "address": "3000 NE 4th Street",
+      "city": "Renton",
+      "county": "King",
+      "state": "WA",
+      "zipCode": "98056",
+      "phone": "(425) 235-2352",
+      "email": "info@rtc.edu",
+      "website": "https://rtc.edu",
+      "programs": [
+        "Construction Trades",
+        "Automotive Technology",
+        "Culinary Arts",
+        "Healthcare Support",
+        "Information Technology",
+        "Manufacturing"
+      ],
+      "reentrySupport": true,
+      "reentryServices": [
+        "Career counseling",
+        "Job placement assistance",
+        "Industry connections",
+        "Apprenticeship opportunities"
+      ],
+      "financialAid": true,
+      "certifications": [
+        "Industry-recognized certificates",
+        "State licenses",
+        "National certifications"
+      ],
+      "programLength": "6 months to 2 years",
+      "jobPlacementRate": "85%",
+      "contactPerson": "Mike Thompson, Workforce Development",
+      "contactEmail": "mike.thompson@rtc.edu",
+      "coordinates": {
+        "lat": 47.4898,
+        "lng": -122.2015
+      }
+    },
+    {
+      "id": 5,
+      "name": "Spokane Community College",
+      "type": "Community College",
+      "address": "1810 N Greene Street",
+      "city": "Spokane",
+      "county": "Spokane",
+      "state": "WA",
+      "zipCode": "99217",
+      "phone": "(509) 533-7000",
+      "email": "info@scc.spokane.edu",
+      "website": "https://scc.spokane.edu",
+      "programs": [
+        "Welding Technology",
+        "Electrical Technology",
+        "Diesel Technology",
+        "Cosmetology",
+        "Business Technology",
+        "Criminal Justice"
+      ],
+      "reentrySupport": true,
+      "reentryServices": [
+        "Reentry specialist on staff",
+        "Flexible scheduling",
+        "Childcare assistance",
+        "Transportation vouchers"
+      ],
+      "financialAid": true,
+      "apprenticeships": [
+        "Electrical apprenticeship",
+        "Plumbing apprenticeship",
+        "Carpentry apprenticeship"
+      ],
+      "programLength": "3 months to 2 years",
+      "jobPlacementRate": "78%",
+      "contactPerson": "Linda Martinez, Reentry Specialist",
+      "contactEmail": "linda.martinez@scc.spokane.edu",
+      "coordinates": {
+        "lat": 47.6587,
+        "lng": -117.4260
+      }
+    }
+  ],
+  "educational_navigators": [
+    {
+      "id": 6,
+      "name": "Washington State Reentry Education Network",
+      "type": "Navigation Service",
+      "serviceArea": "Statewide",
+      "phone": "(800) 555-LEARN",
+      "email": "help@wsren.org",
+      "website": "https://wsren.org",
+      "services": [
+        "Educational planning",
+        "Financial aid guidance",
+        "Career counseling",
+        "Application assistance",
+        "Ongoing support"
+      ],
+      "specialties": [
+        "Criminal background navigation",
+        "Financial aid for formerly incarcerated",
+        "Career pathway planning",
+        "Employer relations"
+      ],
+      "contactPerson": "Rachel Green, State Coordinator",
+      "contactEmail": "rachel.green@wsren.org",
+      "availability": "Monday-Friday, 8 AM - 6 PM"
+    },
+    {
+      "id": 7,
+      "name": "King County Education Reentry Services",
+      "type": "County Service",
+      "serviceArea": "King County",
+      "address": "500 4th Avenue",
+      "city": "Seattle",
+      "county": "King",
+      "state": "WA",
+      "zipCode": "98104",
+      "phone": "(206) 555-0123",
+      "email": "education@kingcounty.gov",
+      "website": "https://kingcounty.gov/reentry-education",
+      "services": [
+        "Individual education planning",
+        "College application support",
+        "Scholarship identification",
+        "Career assessment",
+        "Employer partnerships"
+      ],
+      "specialties": [
+        "Community college partnerships",
+        "Workforce development",
+        "Apprenticeship programs",
+        "Adult basic education"
+      ],
+      "contactPerson": "David Kim, Education Navigator",
+      "contactEmail": "david.kim@kingcounty.gov",
+      "availability": "Monday-Friday, 9 AM - 5 PM",
+      "coordinates": {
+        "lat": 47.6038,
+        "lng": -122.3301
+      }
+    }
+  ],
+  "success_stories": [
+    {
+      "id": 1,
+      "name": "Marcus J.",
+      "program": "Seattle Central College - Automotive Technology",
+      "story": "After 8 years of incarceration, I thought my chances of getting a good education were over. The reentry program at Seattle Central not only helped me get my GED, but I went on to complete their automotive technology program. Now I'm working as a certified mechanic and have been promoted to shop supervisor.",
+      "outcome": "Employed as automotive shop supervisor",
+      "timeframe": "Completed program in 18 months"
+    },
+    {
+      "id": 2,
+      "name": "Jennifer S.",
+      "program": "University of Washington - Social Work",
+      "story": "The UW Reentry Program changed my life. I went from having a criminal record and no college education to earning my Bachelor's in Social Work. Now I work with other women who are reentering society, helping them navigate the same challenges I faced.",
+      "outcome": "Bachelor's degree, working as social worker",
+      "timeframe": "3 years from start to graduation"
+    },
+    {
+      "id": 3,
+      "name": "Robert M.",
+      "program": "Renton Technical College - Construction",
+      "story": "I learned construction skills in prison, but getting certified and finding work was the challenge. RTC's reentry support helped me get my certifications and connected me with employers who were willing to give me a chance. I now run my own small construction business.",
+      "outcome": "Business owner, certified contractor",
+      "timeframe": "1 year program, business started 2 years later"
+    }
+  ]
+}
